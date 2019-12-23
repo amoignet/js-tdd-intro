@@ -1,0 +1,26 @@
+{
+  "name": "js-tdd-intro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Rectangle.js",
+  "directories": {
+    "test": "mocha"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amoignet/js-tdd-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amoignet/js-tdd-intro/issues"
+  },
+  "homepage": "https://github.com/amoignet/js-tdd-intro#readme",
+  "devDependencies": {
+    "mocha": "^6.2.2"
+  }
+}
